@@ -96,6 +96,7 @@ Please request to be added as a contributor to github.com/codebuddies. Then, add
 Look for the issues labeled `codebase`
 
 # Origin story
+
 Kvie: Games can be addictive, but are fun.
 Me: Yeah. 
 Me: Seriously though, Harry Potter Algorithms Practice Coding Game
