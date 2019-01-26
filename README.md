@@ -68,14 +68,13 @@ Step 2. Use the reverse() method to reverse the new created array
 Step 3. Use the join() method to join all elements of the array into a string
 
 **Code Solution**: 
-```
+
 function reverseString(str) {
     var splitString = str.split(""); 
     var reverseArray = splitString.reverse(); 
     var joinArray = reverseArray.join(""); 
     return joinArray;
 }
-```
 
 **OPTIONAL Notes**: 
 Assumes we can use built-in javascript functions
