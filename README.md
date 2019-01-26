@@ -6,6 +6,10 @@ How to solve an algorithm in this game:
 - You will see scrambled blocks of code comments you can drag around on the right, and code on the left. Each code comment will correspond to a chunk of code.
 - Click and drag the steps to solve the algorithm. Once they are in the correct order, you will unlock the algorithm and can move on to the next stage of the story.
 
+Who this game is for:
+- Harry Potter fans
+- People who want to practice common algorithm problems, but want to think about the problems from a step-by-step, high-level perspective
+
 # How do I contribute?
 There are three ways you can contribute:
 1) File an issue containing an algorithm problem and its solution
