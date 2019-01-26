@@ -47,6 +47,7 @@ Share any ideas about how this problem could be used in the story. Optional.
 ```
 
 ### Example:
+```
 **Problem**:
 Reverse a String
 
@@ -84,7 +85,7 @@ Could use this problem for a Mirror of Erised scene. (The task: read "Erised" ba
 
 **OPTIONAL Source**: 
 https://medium.freecodecamp.org/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb
-
+```
 
 ## 2) Contribution type: Storyboard
 
