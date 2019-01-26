@@ -18,18 +18,35 @@ There are three ways you can contribute:
 
 2/ Fill out the following template:
 ```
-**Problem**: #The name of the problem
-**Examples**: #Example Test Cases
-**Difficulty**: #Easy, Medium, or Hard
-**Language**: #You can pick any language
-**Steps to Solve**: #Write out the high-level steps you would take to solve this problem. Please make sure each of your steps correspond with the code solution below.
-**Code Solution**: #Paste, using triple backticks, your solution to the problem. You can include a repl link instead of pasting the full solution, if you want
-**OPTIONAL Notes**: #Add optional notes here about the solution (e.g. if it was recursive)  
-**OPTIONAL Storyboard Notes**: Share any ideas about how this problem could be used in the story. Optional.
-**OPTIONAL Source**: #Where did you get the problem? Is it from Cracking the Code Interview? Leetcode or Hackerrank? A blog or website? You can optionally share the source here. 
+**Problem**: 
+#The name of the problem
+
+**Examples**: 
+#Example Test Cases
+
+**Difficulty**: 
+#Easy, Medium, or Hard
+
+**Language**: 
+#You can pick any language
+
+**Steps to Solve**: 
+#Write out the high-level steps you would take to solve this problem. Please make sure each of your steps correspond with the code solution below.
+
+**Code Solution**: 
+#Paste, using triple backticks, your solution to the problem. You can include a repl link instead of pasting the full solution, if you want
+
+**OPTIONAL Notes**: 
+#Add optional notes here about the solution (e.g. if it was recursive) 
+
+**OPTIONAL Storyboard Notes**: 
+Share any ideas about how this problem could be used in the story. Optional.
+
+**OPTIONAL Source**: 
+#Where did you get the problem? Is it from Cracking the Code Interview? Leetcode or Hackerrank? A blog or website? You can optionally share the source here. 
 ```
 
-Example:
+### Example:
 **Problem**:
 Reverse a String
 
