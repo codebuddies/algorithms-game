@@ -17,7 +17,7 @@ There are three ways you can contribute:
 1/ Create a new issue
 
 2/ Fill out the following template:
-
+```
 **Problem**: #The name of the problem
 **Examples**: #Example Test Cases
 **Difficulty**: #Easy, Medium, or Hard
@@ -27,6 +27,7 @@ There are three ways you can contribute:
 **OPTIONAL Notes**: #Add optional notes here about the solution (e.g. if it was recursive)  
 **OPTIONAL Storyboard Notes**: Share any ideas about how this problem could be used in the story. Optional.
 **OPTIONAL Source**: #Where did you get the problem? Is it from Cracking the Code Interview? Leetcode or Hackerrank? A blog or website? You can optionally share the source here. 
+```
 
 Example:
 **Problem**:
